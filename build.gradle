@@ -13,7 +13,7 @@ buildscript {
 
 /**
  * 앞서 선언한 플러그인 의존성들을 적용할 것인지 결정하는 코드
- */
+**/
 apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
